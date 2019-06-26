@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">TrackingPositioningSystem</string>
+    <string name="app_name">Indoor Positioning System</string>
     <string name="location_permission_denied">User denied permission for device location.</string>
 </resources>
